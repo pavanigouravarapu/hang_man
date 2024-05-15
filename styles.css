@@ -1,0 +1,19 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  canvas {
+    border: 1px solid black;
+    margin: 20px auto;
+  }
+  
+  input {
+    margin-top: 10px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
